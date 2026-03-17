@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="ML Model — อธิบาย", page_icon="🌲", layout="wide")
+st.set_page_config(page_title="1_GDP_Model_Theory.py", page_icon="🌲", layout="wide")
 
 st.markdown("""
 <style>
