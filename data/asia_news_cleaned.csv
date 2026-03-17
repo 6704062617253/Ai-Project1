@@ -1,0 +1,121 @@
+id,country,year,gdp_change,sentiment,source,headline,sentiment_label,text_length
+111,Mongolia,2015,0.28,Neutral,Reuters,Mongolia GDP growth remains stable at 0.28% in 2015.,1,52
+36,Pakistan,2021,0.38,Neutral,Nikkei Asia,Pakistan's economy shows mixed signals with 0.38% GDP change in 2021.,1,69
+40,China,2021,7.52,Neutral,Reuters,China GDP growth remains stable at 0.09% in 2021.,1,49
+83,Vietnam,2017,0.48,Neutral,Bloomberg,Analysts predict 0.48% growth for Vietnam in 2017.,1,50
+65,Indonesia,2016,9.28,Positive,AP News,Investors optimistic as Indonesia records 9.28% economic expansion in 2016.,2,75
+61,South Korea,2019,3.4,Neutral,Reuters,Analysts predict 3.4% growth for South Korea in 2019.,1,53
+100,Pakistan,2016,2.23,Neutral,Bloomberg,Pakistan maintains steady 2.23% economic growth in 2016.,1,56
+27,Thailand,2019,7.31,Neutral,Nikkei Asia,Thailand GDP growth remains stable at 1.99% in 2019.,1,52
+14,India,2015,8.47,Positive,Nikkei Asia,India outperforms expectations with 8.47% GDP growth amid global uncertainty in 2015.,2,85
+51,Japan,2017,0.97,Neutral,Reuters,Japan maintains steady 0.97% economic growth in 2017.,1,53
+107,Indonesia,2019,8.83,Positive,Reuters,Strong domestic consumption pushes Indonesia growth to 8.83% in 2019.,2,69
+34,India,2013,2.77,Positive,Bloomberg,"India's GDP growth accelerated to 11.33% in 2013, driven by strong export demand.",2,81
+58,Philippines,2020,8.49,Positive,Unknown,Philippines economy rebounds in 2020 as manufacturing sector surges 8.49%.,2,74
+3,Mongolia,2021,3.465,Neutral,Bloomberg,IMF revises Mongolia growth forecast to 2.13% for 2021.,1,55
+50,Malaysia,2018,0.19,Neutral,AP News,Analysts predict 0.19% growth for Malaysia in 2018.,1,51
+110,India,2017,2.45,Neutral,Bloomberg,IMF revises India growth forecast to 2.45% for 2017.,1,52
+52,Japan,2017,-1.96,Negative,AP News,Japan faces recession fears after GDP drops 1.96% in 2017.,0,58
+71,Thailand,2019,7.31,Positive,Nikkei Asia,Thailand outperforms expectations with 7.31% GDP growth amid global uncertainty in 2019.,2,88
+66,Malaysia,2014,7.13,Positive,Bloomberg,Malaysia economy rebounds in 2014 as manufacturing sector surges 7.13%.,2,71
+43,Thailand,2015,5.83,Positive,Unknown,Investors optimistic as Thailand records 5.83% economic expansion in 2015.,2,74
+35,Vietnam,2014,11.01,Positive,Nikkei Asia,Strong domestic consumption pushes Vietnam growth to 11.01% in 2014.,2,68
+67,India,2016,1.51,Neutral,Unknown,Analysts predict 1.51% growth for India in 2016.,1,48
+119,Thailand,2014,7.31,Neutral,Bloomberg,Thailand outperforms expectations with 9.86% GDP growth amid global uncertainty in 2014.,1,88
+97,Bangladesh,2013,5.36,Positive,Reuters,"Bangladesh's GDP growth accelerated to 5.36% in 2013, driven by strong export demand.",2,85
+29,India,2017,2.86,Neutral,Reuters,India GDP growth remains stable at 2.86% in 2017.,1,49
+69,Bangladesh,2019,3.11,Neutral,Nikkei Asia,Bangladesh's economy shows mixed signals with 3.11% GDP change in 2019.,1,71
+86,Mongolia,2019,3.31,Neutral,Reuters,Analysts predict 3.31% growth for Mongolia in 2019.,1,51
+115,Indonesia,2013,-0.19,Negative,Bloomberg,Indonesia faces recession fears after GDP drops 0.19% in 2013.,0,62
+85,Thailand,2017,9.97,Positive,Bloomberg,Investors optimistic as Thailand records 9.97% economic expansion in 2017.,2,74
+117,South Korea,2016,4.72,Positive,Nikkei Asia,South Korea economy rebounds in 2016 as manufacturing sector surges 4.72%.,2,74
+41,Mongolia,2021,-2.36,Negative,AP News,Mongolia faces recession fears after GDP drops 2.36% in 2021.,0,61
+54,Philippines,2016,1.19,Neutral,Reuters,Philippines GDP growth remains stable at 1.19% in 2016.,1,55
+47,Mongolia,2015,10.74,Positive,Nikkei Asia,Mongolia economy rebounds in 2015 as manufacturing sector surges 10.74%.,2,72
+15,Philippines,2017,11.51,Positive,AP News,"Philippines's GDP growth accelerated to 11.51% in 2017, driven by strong export demand.",2,87
+44,China,2014,-3.72,Negative,Bloomberg,Economic downturn hits China as GDP shrinks 3.72% in 2014.,0,58
+90,South Korea,2016,7.56,Positive,AP News,Investors optimistic as South Korea records 7.56% economic expansion in 2016.,2,77
+99,Indonesia,2013,-1.06,Negative,AP News,Indonesia faces recession fears after GDP drops 1.06% in 2013.,0,62
+94,Japan,2014,1.81,Neutral,Unknown,Japan GDP growth remains stable at 1.81% in 2014.,1,49
+1,Pakistan,2014,1.305,Negative,Unknown,Pakistan faces recession fears after GDP drops 4.57% in 2014.,0,61
+18,South Korea,2015,1.36,Neutral,Reuters,Analysts predict 1.36% growth for South Korea in 2015.,1,54
+26,Bangladesh,2020,3.21,Negative,Nikkei Asia,Inflation and weak exports drag Bangladesh growth down to 0.87% in 2020.,0,72
+120,Vietnam,2015,-3.73,Negative,AP News,Vietnam faces recession fears after GDP drops 3.73% in 2015.,0,60
+72,Bangladesh,2013,3.21,Neutral,Nikkei Asia,Inflation and weak exports drag Bangladesh growth down to 3.57% in 2013.,1,72
+76,Malaysia,2014,4.59,Positive,Unknown,Malaysia economy rebounds in 2014 as manufacturing sector surges 4.59%.,2,71
+93,Bangladesh,2017,2.98,Neutral,Nikkei Asia,IMF revises Bangladesh growth forecast to 2.98% for 2017.,1,57
+84,Malaysia,2019,0.72,Neutral,AP News,IMF revises Malaysia growth forecast to 0.72% for 2019.,1,55
+101,Japan,2013,-2.18,Negative,Nikkei Asia,Japan faces recession fears after GDP drops 2.18% in 2013.,0,58
+21,Philippines,2015,-2.82,Negative,Unknown,Inflation and weak exports drag Philippines growth down to 2.82% in 2015.,0,73
+16,Pakistan,2018,-3.1,Negative,AP News,Inflation and weak exports drag Pakistan growth down to 3.1% in 2018.,0,69
+7,China,2016,8.14,Positive,Nikkei Asia,"China's GDP growth accelerated to 8.14% in 2016, driven by strong export demand.",2,80
+106,Malaysia,2018,1.94,Neutral,Nikkei Asia,Malaysia's economy shows mixed signals with 1.94% GDP change in 2018.,1,69
+25,Philippines,2016,-0.27,Negative,Unknown,Inflation and weak exports drag Philippines growth down to 0.27% in 2016.,0,73
+104,Bangladesh,2013,11.99,Positive,Unknown,Investors optimistic as Bangladesh records 11.99% economic expansion in 2013.,2,77
+62,Vietnam,2016,-2.01,Negative,Reuters,"Vietnam economy struggles in 2016, posting only 2.01% growth.",0,61
+55,Mongolia,2017,3.62,Neutral,Bloomberg,IMF revises Mongolia growth forecast to 3.62% for 2017.,1,55
+77,Bangladesh,2014,3.21,Positive,AP News,Bangladesh economy rebounds in 2014 as manufacturing sector surges 8.22%.,2,73
+17,Philippines,2015,3.63,Neutral,Unknown,Philippines GDP growth remains stable at 3.63% in 2015.,1,55
+78,Bangladesh,2019,1.74,Neutral,Reuters,Analysts predict 1.74% growth for Bangladesh in 2019.,1,53
+28,Mongolia,2018,8.61,Positive,Nikkei Asia,"Mongolia's GDP growth accelerated to 8.61% in 2018, driven by strong export demand.",2,83
+20,South Korea,2013,-0.91,Negative,Reuters,"South Korea economy struggles in 2013, posting only 0.91% growth.",0,65
+95,Indonesia,2014,11.9,Positive,Unknown,"Indonesia's GDP growth accelerated to 11.9% in 2014, driven by strong export demand.",2,84
+45,Vietnam,2015,-4.29,Negative,AP News,Vietnam faces recession fears after GDP drops 4.29% in 2015.,0,60
+103,Bangladesh,2013,10.12,Positive,Unknown,Investors optimistic as Bangladesh records 10.12% economic expansion in 2013.,2,77
+10,South Korea,2018,9.33,Positive,AP News,"South Korea's GDP growth accelerated to 9.33% in 2018, driven by strong export demand.",2,86
+113,Vietnam,2020,11.66,Positive,Unknown,Vietnam economy rebounds in 2020 as manufacturing sector surges 11.66%.,2,71
+74,Indonesia,2014,3.0,Neutral,Reuters,Indonesia maintains steady 3.0% economic growth in 2014.,1,56
+2,Japan,2019,0.97,Negative,Bloomberg,Japan GDP contracts by 4.46% in 2019 amid global slowdown.,0,58
+87,Japan,2017,-1.23,Negative,Unknown,Economic downturn hits Japan as GDP shrinks 1.23% in 2017.,0,58
+59,Thailand,2014,8.91,Positive,Reuters,Thailand economy rebounds in 2014 as manufacturing sector surges 8.91%.,2,71
+33,China,2021,-3.96,Negative,Unknown,China faces recession fears after GDP drops 3.96% in 2021.,0,58
+60,China,2016,11.73,Positive,Unknown,Strong domestic consumption pushes China growth to 11.73% in 2016.,2,66
+105,Pakistan,2020,10.57,Positive,Reuters,Pakistan economy rebounds in 2020 as manufacturing sector surges 10.57%.,2,72
+75,Pakistan,2013,7.82,Positive,Bloomberg,Pakistan economy rebounds in 2013 as manufacturing sector surges 7.82%.,2,71
+64,Bangladesh,2021,2.25,Neutral,Nikkei Asia,Bangladesh maintains steady 2.25% economic growth in 2021.,1,58
+116,Malaysia,2021,3.23,Neutral,AP News,Malaysia's economy shows mixed signals with 3.23% GDP change in 2021.,1,69
+118,Mongolia,2019,1.56,Neutral,Unknown,Analysts predict 1.56% growth for Mongolia in 2019.,1,51
+49,Indonesia,2015,8.39,Positive,Bloomberg,"Indonesia's GDP growth accelerated to 8.39% in 2015, driven by strong export demand.",2,84
+79,Mongolia,2017,9.45,Positive,Reuters,Strong domestic consumption pushes Mongolia growth to 9.45% in 2017.,2,68
+11,Japan,2016,10.52,Positive,Nikkei Asia,Strong domestic consumption pushes Japan growth to 10.52% in 2016.,2,66
+23,Malaysia,2021,2.68,Neutral,Bloomberg,Analysts predict 2.68% growth for Malaysia in 2021.,1,51
+102,Japan,2020,6.71,Positive,Reuters,Japan outperforms expectations with 6.71% GDP growth amid global uncertainty in 2020.,2,85
+24,Bangladesh,2016,-4.88,Negative,Reuters,Bangladesh GDP contracts by 4.88% in 2016 amid global slowdown.,0,63
+73,Thailand,2016,2.73,Neutral,Nikkei Asia,Thailand's economy shows mixed signals with 2.73% GDP change in 2016.,1,69
+53,Vietnam,2021,-3.03,Negative,Unknown,"Vietnam economy struggles in 2021, posting only 3.03% growth.",0,61
+68,Malaysia,2019,-3.94,Negative,Reuters,Inflation and weak exports drag Malaysia growth down to 3.94% in 2019.,0,70
+32,Indonesia,2019,6.84,Positive,Bloomberg,Strong domestic consumption pushes Indonesia growth to 6.84% in 2019.,2,69
+19,Bangladesh,2018,3.31,Neutral,AP News,Bangladesh GDP growth remains stable at 3.31% in 2018.,1,54
+109,Philippines,2018,5.58,Positive,Unknown,Philippines outperforms expectations with 5.58% GDP growth amid global uncertainty in 2018.,2,91
+48,China,2015,7.52,Positive,Bloomberg,Investors optimistic as China records 7.52% economic expansion in 2015.,2,71
+46,South Korea,2016,6.34,Positive,Unknown,Investors optimistic as South Korea records 6.34% economic expansion in 2016.,2,77
+38,Japan,2021,0.97,Neutral,Bloomberg,Japan faces recession fears after GDP drops 1.38% in 2021.,1,58
+8,Pakistan,2018,-2.23,Negative,Reuters,Pakistan faces recession fears after GDP drops 2.23% in 2018.,0,61
+42,Philippines,2020,-0.73,Negative,Reuters,Philippines GDP contracts by 0.73% in 2020 amid global slowdown.,0,64
+6,Vietnam,2014,4.38,Positive,Reuters,Strong domestic consumption pushes Vietnam growth to 4.38% in 2014.,2,67
+4,Mongolia,2019,3.465,Neutral,Nikkei Asia,Analysts predict 0.78% growth for Mongolia in 2019.,1,51
+39,Thailand,2017,-2.32,Negative,Unknown,"Thailand economy struggles in 2017, posting only 2.32% growth.",0,62
+89,South Korea,2014,7.26,Positive,Bloomberg,Investors optimistic as South Korea records 7.26% economic expansion in 2014.,2,77
+22,Vietnam,2016,10.79,Positive,AP News,Vietnam economy rebounds in 2016 as manufacturing sector surges 10.79%.,2,71
+57,Indonesia,2017,-1.43,Negative,Bloomberg,"Indonesia economy struggles in 2017, posting only 1.43% growth.",0,63
+108,Vietnam,2021,9.02,Positive,Bloomberg,"Vietnam's GDP growth accelerated to 9.02% in 2021, driven by strong export demand.",2,82
+91,Japan,2016,0.04,Neutral,AP News,Japan's economy shows mixed signals with 0.04% GDP change in 2016.,1,66
+82,India,2021,11.41,Positive,Nikkei Asia,Investors optimistic as India records 11.41% economic expansion in 2021.,2,72
+13,Vietnam,2019,4.38,Neutral,Reuters,Analysts predict 1.15% growth for Vietnam in 2019.,1,50
+56,Vietnam,2019,6.51,Positive,Reuters,Vietnam economy rebounds in 2019 as manufacturing sector surges 6.51%.,2,70
+12,Pakistan,2020,-2.57,Negative,Unknown,Economic downturn hits Pakistan as GDP shrinks 2.57% in 2020.,0,61
+96,South Korea,2021,1.47,Neutral,Unknown,IMF revises South Korea growth forecast to 1.47% for 2021.,1,58
+30,Pakistan,2021,9.21,Positive,Nikkei Asia,"Pakistan's GDP growth accelerated to 9.21% in 2021, driven by strong export demand.",2,83
+37,India,2017,2.77,Neutral,Reuters,India GDP growth remains stable at 2.77% in 2017.,1,49
+88,Thailand,2019,11.94,Positive,AP News,Strong domestic consumption pushes Thailand growth to 11.94% in 2019.,2,69
+81,Malaysia,2014,2.37,Neutral,Nikkei Asia,Malaysia's economy shows mixed signals with 2.37% GDP change in 2014.,1,69
+31,Malaysia,2016,9.7,Positive,Nikkei Asia,"Malaysia's GDP growth accelerated to 9.7% in 2016, driven by strong export demand.",2,82
+9,Bangladesh,2015,4.08,Positive,Unknown,Bangladesh economy rebounds in 2015 as manufacturing sector surges 4.08%.,2,73
+80,Thailand,2021,7.31,Neutral,Nikkei Asia,Thailand's economy shows mixed signals with 2.28% GDP change in 2021.,1,69
+5,Japan,2018,9.41,Positive,Reuters,Strong domestic consumption pushes Japan growth to 9.41% in 2018.,2,65
+70,Philippines,2021,8.6,Positive,Nikkei Asia,Philippines economy rebounds in 2021 as manufacturing sector surges 8.6%.,2,73
+112,Malaysia,2014,6.01,Positive,AP News,Malaysia economy rebounds in 2014 as manufacturing sector surges 6.01%.,2,71
+63,Malaysia,2015,8.62,Positive,Nikkei Asia,Strong domestic consumption pushes Malaysia growth to 8.62% in 2015.,2,68
+98,India,2016,-2.05,Negative,Nikkei Asia,India GDP contracts by 2.05% in 2016 amid global slowdown.,0,58
+114,Philippines,2015,9.69,Positive,Unknown,Investors optimistic as Philippines records 9.69% economic expansion in 2015.,2,77
+92,China,2013,7.52,Positive,Reuters,China economy rebounds in 2013 as manufacturing sector surges 4.41%.,2,68
