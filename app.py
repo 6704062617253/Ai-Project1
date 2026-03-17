@@ -91,8 +91,7 @@ st.markdown("""
     <h1>Asia Economy <span>AI Project</span></h1>
     <p>วิเคราะห์เศรษฐกิจเอเชียด้วย Machine Learning และ Neural Network</p>
     <br>
-    <span class="badge badge-blue">IS Project 2568</span>
-    <span class="badge badge-green">Streamlit + TensorFlow</span>
+    <span class="badge badge-blue">Project IS 2568</span>
 </div>
 """, unsafe_allow_html=True)
 
