@@ -16,12 +16,12 @@ from sklearn.metrics import classification_report, confusion_matrix, accuracy_sc
 from xgboost import XGBClassifier
 
 import tensorflow as tf
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Embedding, LSTM, Dense, Dropout, Bidirectional
-from tensorflow.keras.preprocessing.text import Tokenizer
-from tensorflow.keras.preprocessing.sequence import pad_sequences
-from tensorflow.keras.callbacks import EarlyStopping
-from tensorflow.keras.utils import to_categorical
+from keras.models import Sequential
+from keras.layers import Embedding, LSTM, Dense, Dropout, Bidirectional
+from keras.preprocessing.text import Tokenizer
+from keras.preprocessing.sequence import pad_sequences
+from keras.callbacks import EarlyStopping
+from keras.utils import to_categorical
 
 # ============================================================
 # CONFIG — แก้ path ตรงนี้ให้ตรงกับที่วางไฟล์ CSV
