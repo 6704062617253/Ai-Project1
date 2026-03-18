@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="Asia Economy Prediction",
+    page_title="Asia Economy AI",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -88,7 +88,7 @@ st.markdown("""
 st.markdown("""
 <div class="hero">
     <div class="card-icon">🌏</div>
-    <h1>Asia Economy <span>AI Project</span></h1>
+    <h1>Asia Economy <span>AI Prediction</span></h1>
     <p>วิเคราะห์เศรษฐกิจเอเชียด้วย Machine Learning และ Neural Network</p>
     <br>
     <span class="badge badge-blue">Project IS 2568</span>
