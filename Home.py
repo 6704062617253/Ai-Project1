@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="Asia Economy AI",
+    page_title="Asia Economy Prediction",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded"
